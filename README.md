@@ -1,7 +1,7 @@
 # Binary-Search-Tree
 Kodluyoruz-Binary Search Tree
 
-[7,5,1,8,3,6,0,9,4,2] Binary Search Tree'ye göre sıralarken, sıralı diziymiş gibi varsayıp indexte orta noktayı ror alıyor. Bu durumda 10 elemanlı olduğu için 3 veya 6'yı root olarak alabiliriz. Sağ tarafa kendinden büyükler, sol tarafa kendinden küçükler yazılıyor.
+[7,5,1,8,3,6,0,9,4,2] Binary Search Tree'ye göre sıralarken, sıralı diziymiş gibi varsayıp indexte orta noktayı ror alıyor. Bu durumda 10 elemanlı olduğu için 6'yı root olarak alabiliriz. Sağ tarafa kendinden büyükler, sol tarafa kendinden küçükler yazılıyor.
 
  6'yı Root Node olarak alalım.
 
